@@ -15,7 +15,9 @@ MonoBehaviour:
   storyText: 'You''re trapped in a dungeon with your friend. You see a barrel. What
     do you do?
 
-    1) Sit down next to my friend'
+    1) Move the barrel
+
+    2) Sit down next to my friend'
   nextStates:
   - {fileID: 11400000, guid: afa70af994a1b934d9c80ae4b9f18baa, type: 2}
   - {fileID: 11400000, guid: 54d588b583517c5468078379c1eb986b, type: 2}
