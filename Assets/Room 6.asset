@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bc1f863969105a4e85a2e23182a0f36, type: 3}
+  m_Name: Room 6
+  m_EditorClassIdentifier: 
+  storyText: 'In the water you see a boat
+
+    What do you do?
+
+    1) Get on the
+    boat'
+  nextStates:
+  - {fileID: 11400000, guid: afa70af994a1b934d9c80ae4b9f18baa, type: 2}
+  - {fileID: 11400000, guid: 54d588b583517c5468078379c1eb986b, type: 2}
+  - {fileID: 11400000, guid: 9742a1cc02eb2104990324a7f4a16fa8, type: 2}
+  - {fileID: 11400000, guid: 75066ee0a2f28de4983f4ba402622684, type: 2}
+  - {fileID: 11400000, guid: 26186f71371734440930ac2a60af1ef4, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 9415c5cede1feaa4481888fe51e7ca32, type: 2}
+  - {fileID: 11400000, guid: 2c7307b30c26c094e8810cff2135fcf0, type: 2}
+  - {fileID: 11400000, guid: 5974dd4ce2cdd7d45ae5a9dc51a0992a, type: 2}
+  - {fileID: 11400000, guid: 97948854ad2b0ca40986cbfc0dfce99e, type: 2}
